@@ -8,7 +8,6 @@
 
 <p align="center">I am an aspiring web developer,content writer and an individual who loves to code. I am ready to collaborate on interesting🤩 web development projects. </p>
 
-
 <br>
 
 <h1 align="center">🧾 Overview About Me:-</h1>
