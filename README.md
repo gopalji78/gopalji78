@@ -3,7 +3,7 @@
 
 <h1 align="center">Hii there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, This is Gopal Ji😇</h1>
 <h3 align="center">Undergrad at NIT Patna 👩‍🎓 || Full Stack Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gyani1610" alt="Gyani1610" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gyani1610" alt="GOPALJI" /> </p>
 
 
 <p align="center">I am an aspiring web developer,content writer and an individual who loves to code. I am ready to collaborate on interesting🤩 web development projects. </p>
